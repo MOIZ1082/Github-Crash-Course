@@ -1,5 +1,5 @@
 const age = 19;
-const name1 = 'papa';
+const name1 = 'Moiz Abid New';
 const dob = '05/09/2005';
 
 function sayName() {
