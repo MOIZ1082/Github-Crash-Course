@@ -8,4 +8,5 @@ function sayName() {
 
 function newFeatureAdd() {
   console.log('this is a new feature');
+  console.log('this is a new feature A');
 }
